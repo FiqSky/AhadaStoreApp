@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TokoAhada</string>
+    <string name="attention">Perhatian</string>
+    <string name="back_button">Kembali</string>
+    <string name="delete">Hapus Barang</string>
+    <string name="delete_question">Yakin ingin menghapus nya?</string>
+    <string name="no_item_description">Oops!\nNo items in the store.\nTap + to add.</string>
+    <string name="edit_item_title">Edit Produk</string>
+    <string name="item">Produk</string>
+    <string name="item_detail_title">Keterangan Produk</string>
+    <string name="item_entry_title">Tambah Barang</string>
+    <string name="item_name_req">Nama Barang*</string>
+    <string name="item_price_req">Harga Barang*</string>
+    <string name="no">No</string>
+    <string name="price">Price</string>
+    <string name="quantity_in_stock">Stok Barang</string>
+    <string name="in_stock">Stok Barang %d</string>
+    <string name="quantity_req">Stok Barang*</string>
+    <string name="save_action">Simpan</string>
+    <string name="sell">Jual 1 Barang</string>
+    <string name="yes">Iya</string>
+    <string name="required_fields">*harus di isi</string>
+    <string name="select_image">Pilih Gambar</string>
+</resources>
