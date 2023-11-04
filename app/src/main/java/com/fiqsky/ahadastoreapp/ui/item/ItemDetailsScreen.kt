@@ -54,7 +54,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.fiqsky.ahadastoreapp.StoreTopAppBar
 import com.fiqsky.ahadastoreapp.R
-import com.fiqsky.ahadastoreapp.data.Item
+import com.fiqsky.ahadastoreapp.data.model.Item
 import com.fiqsky.ahadastoreapp.ui.AppViewModelProvider
 import com.fiqsky.ahadastoreapp.ui.navigation.NavigationDestination
 import com.fiqsky.ahadastoreapp.ui.theme.AhadaStoreAppTheme

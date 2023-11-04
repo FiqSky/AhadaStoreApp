@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.fiqsky.ahadastoreapp.data
+package com.fiqsky.ahadastoreapp.data.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

@@ -18,7 +18,7 @@ package com.fiqsky.ahadastoreapp.ui.home
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.fiqsky.ahadastoreapp.data.Item
+import com.fiqsky.ahadastoreapp.data.model.Item
 import com.fiqsky.ahadastoreapp.data.ItemsRepository
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
